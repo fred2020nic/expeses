@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect('localhost', 'root', '', 'appsalon_mvc');
+$db = mysqli_connect('localhost', 'fepsoft', '#edencito2021#', 'fepsoft_appsalon');
 
 // debuguear($_ENV);
 
